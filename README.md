@@ -1,7 +1,7 @@
 # 47-ICPC-World-Final-2023
 
-<img src="/Users/raihanulislamnahid/Documents/GitHub/47-ICPC-World-Final-2023-/assets/images/A.png" alt="Paris" class="center">
-<img src="/Users/raihanulislamnahid/Documents/GitHub/47-ICPC-World-Final-2023-/assets/images/B.png" alt="Paris" class="center">
+<img src=".../assets/images/B.png" alt="Paris" class="center">
+<img src=".../assets/images/B.png" alt="Paris" class="center">
 
 ## Solution
 
