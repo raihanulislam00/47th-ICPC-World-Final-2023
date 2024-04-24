@@ -429,7 +429,7 @@ int main() {
 }
 ```
 
-## Problem J : Alea Lacta Est
+## Problem K : Alea Lacta Est
 <img align="center" src="./assets/images/P.png"/>
 <img align="center" src="./assets/images/R.png"/>
 
